@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rahul
++# Hi 👋 I'm Rahul
 
 🎓 BTech CSE Student  
 💻 Passionate about Programming and Problem Solving  
