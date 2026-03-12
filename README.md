@@ -14,6 +14,7 @@
 - HTML
 - CSS
 - Git & GitHub
+- Java script
 
 ## 📚 Currently Learning
 - Data Structures
